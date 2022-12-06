@@ -1,2 +1,2 @@
 #!/bin/bash
-peintf '%x\n' $DECIMAL
+peintf "%x\n" $DECIMAL
